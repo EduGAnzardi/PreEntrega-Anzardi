@@ -14,7 +14,7 @@ const Navbar = () => {
             <a className="nav-link" href="/">Inicio</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/productos">Zapatillas</a>
+            <a className="nav-link" href="/productos">Zapas</a>
           </li>
           <li className="nav-item">
             <CartWidget />
